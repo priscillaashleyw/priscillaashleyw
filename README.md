@@ -21,14 +21,14 @@ Data Science & Analytics @ NUS · Building with ML, one dataset at a time
 
 Hi! 👋 I'm Priscilla, a final year undergrad at NUS, majoring in Data Science & Analytics with a minor in Computer Science.
 
-I am currently a Data Science/Analytics Intern @ AIA Singapore, where I'm building Databricks pipelines, NLP-based complaint analytics, and KRI dashboards. I am highly interested in the full ML lifecycle and aspire to be a data scientist, data engineer, and AI/ML engineer.
+I am currently a Data Science & Analytics Intern @ AIA Singapore, where I'm building Databricks pipelines, NLP-based complaint analytics, and KRI dashboards. I am highly interested in the full ML lifecycle and aspire to be a data scientist, data engineer, and AI/ML engineer.
 
 ---
 
 ## Experience
 
-- **Data Analytics Intern** · AIA Singapore, Group Internal Audit · *May – Jul 2026*
-- **Data Science Intern** · PT United Tractors Tbk, Jakarta · *May – Jul 2025*
+- **Data Science & Analytics Intern** · AIA Singapore, Group Internal Audit · *May 2026 – Jul 2026*
+- **Data Science Intern** · PT United Tractors Tbk, Jakarta · *May 2025 – Jul 2025*
 
 ---
 
