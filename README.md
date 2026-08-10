@@ -1,6 +1,6 @@
 # Priscilla Ashley Wijaya
 
-Data Science & Analytics @ NUS · Building with ML, one dataset at a time
+Data Science & Analytics @ NUS
 
 ![Python](https://img.shields.io/badge/Python-3C3489?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3C3489?style=flat&logo=postgresql&logoColor=white)
@@ -21,12 +21,13 @@ Data Science & Analytics @ NUS · Building with ML, one dataset at a time
 
 Hi! 👋 I'm Priscilla, a final year undergrad at NUS, majoring in Data Science & Analytics with a minor in Computer Science.
 
-I am currently a Data Science & Analytics Intern @ AIA Singapore, where I'm building Databricks pipelines, NLP-based complaint analytics, and KRI dashboards. I am highly interested in the full ML lifecycle and aspire to be a data scientist, data engineer, and AI/ML engineer.
+I am currently an AI Engineer Intern @ OCBC, where I'm building end-to-end RAG applications for compliance use cases. I was an Ex-Data Science & Analytics Intern @ AIA Singapore, where I established the first complaints log analytics dashboard and data pipeline on Databricks using NLP-based text classification and topic modelling. I am highly interested in the full ML lifecycle and aspire to be a data scientist, data engineer, and AI/ML engineer.
 
 ---
 
 ## Experience
 
+- **AI Engineer Intern** · OCBC, Group Legal and Compliance · *Aug 2026 – Dec 2026*
 - **Data Science & Analytics Intern** · AIA Singapore, Group Internal Audit · *May 2026 – Jul 2026*
 - **Data Science Intern** · PT United Tractors Tbk, Jakarta · *May 2025 – Jul 2025*
 
