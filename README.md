@@ -19,17 +19,17 @@ Data Science & Analytics @ NUS
 
 ## About
 
-Hi! 👋 I'm Priscilla, a final year undergrad at NUS, majoring in Data Science & Analytics with a minor in Computer Science.
+Hi! 👋 I'm Priscilla, a final-year undergrad at NUS, majoring in Data Science & Analytics with a minor in Computer Science.
 
-I am currently an AI Engineer Intern @ OCBC, where I'm building end-to-end RAG applications for compliance use cases. I was an Ex-Data Science & Analytics Intern @ AIA Singapore, where I established the first complaints log analytics dashboard and data pipeline on Databricks using NLP-based text classification and topic modelling. I am highly interested in the full ML lifecycle and aspire to be a data scientist, data engineer, and AI/ML engineer.
+I am currently an AI Engineer Intern @ OCBC, where I'm building end-to-end RAG applications for compliance use cases. I was previously a Data Science & Analytics Intern @ AIA Singapore, where I established the first complaints log analytics dashboard and data pipeline on Databricks using NLP-based text classification and topic modelling. I am highly interested in the full ML lifecycle and aspire to become a data scientist, data engineer, or AI/ML engineer.
 
 ---
 
 ## Experience
 
-- **AI Engineer Intern** · OCBC, Group Legal and Compliance · *Aug 2026 – Dec 2026*
-- **Data Science & Analytics Intern** · AIA Singapore, Group Internal Audit · *May 2026 – Jul 2026*
-- **Data Science Intern** · PT United Tractors Tbk, Jakarta · *May 2025 – Jul 2025*
+- **AI Engineer Intern** · OCBC, Group Legal and Compliance · *Singapore, Aug 2026 – Dec 2026*
+- **Data Science & Analytics Intern** · AIA Singapore, Group Internal Audit · *Singapore, May 2026 – Jul 2026*
+- **Data Science Intern** · United Tractors, Differentiation and Digitalization · *Indonesia, May 2025 – Jul 2025*
 
 ---
 
@@ -42,4 +42,4 @@ I am currently an AI Engineer Intern @ OCBC, where I'm building end-to-end RAG a
 
 ## Featured Projects
 
-See my projects down below! 👇
+See my projects below! 👇
